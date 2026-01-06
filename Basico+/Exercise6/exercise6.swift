@@ -3,7 +3,7 @@ import Foundation
 let number = 5 
 let number2 = 5 
 
-func sum(number, number2) -> (Int, Int) {
+func sum(number, number2) -> Int {
     return (number + number2)
 }
 
